@@ -1,4 +1,4 @@
 progress:
-1. Two Sum
-1. Two Sum
+1. Contains Duplicate
+1. Valid Anagram
 1. Two Sum
