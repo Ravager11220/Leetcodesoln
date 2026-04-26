@@ -6,3 +6,4 @@ progress:
 3. Top K Frequent Elements
 4. Encode and Decode Strings
 5. Valid Palindrome
+6. Binary Search
