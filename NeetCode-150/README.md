@@ -7,3 +7,4 @@ progress:
 4. Encode and Decode Strings
 5. Valid Palindrome
 6. Binary Search
+7. Best time to buy and sell stocks
