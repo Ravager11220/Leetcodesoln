@@ -10,3 +10,4 @@ progress:
 7. Best time to buy and sell stocks
 8. Search a 2D Matrix
 9. min stack
+10. reverse linked list
