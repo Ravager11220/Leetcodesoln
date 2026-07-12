@@ -12,3 +12,4 @@ progress:
 9. min stack
 10. reverse linked list
 11. merge two sorted lists
+12. product of array except self
